@@ -30,3 +30,4 @@ function password () {
         textinput2.style.display = "block"
     }
 }
+console.log("sucsess")
